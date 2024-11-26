@@ -3,4 +3,4 @@ numpy
 panda
 plotly
 scikit-learn
-PIL
+pillow
