@@ -2,5 +2,5 @@ matplotlib
 numpy
 panda
 plotly
-sklearn
+scikit-learn
 PIL
